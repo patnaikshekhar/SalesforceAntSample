@@ -1,6 +1,6 @@
 public class MyClass {
 
     public void helloWorld() {
-        System.debug('***Hello World')
+        System.debug('***Hello World');
     }
 }
